@@ -11,4 +11,4 @@ tags:
   - graphQL
   - aws
 ---
-![](https://i.postimg.cc/FHpyH3p9/Low-Friction-Adobe-Express-1.gif)
+![](https://postimg.cc/G4B8MB6N)
