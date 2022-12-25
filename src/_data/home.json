@@ -1,6 +1,6 @@
 {
-  "title": "Fernfolio",
-  "image": "src/assets/img/fern-in-hand.jpeg",
+  "title": "Hello!",
+  "image": "/src/assets/img/loop-smooth.gif",
   "image_alt": "Fern in hand",
-  "body": "The super simple portfolio template built with [Eleventy](https://www.11ty.dev/) and [Netlify CMS](https://www.netlifycms.org/)."
+  "body": "I am a student at Texas A&M currently working towards a Master's in Computer Science."
 }
